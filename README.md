@@ -130,11 +130,5 @@ DB4O - Object-oriented database for efficient data management.
 5. **Validations:** Ensures data integrity through validations for all user-entered fields.
 
 The Smart City Hub project envisions a future where urban living is seamless, sustainable, and technologically advanced. By integrating various services and roles, the project strives to create a smart city ecosystem that meets the diverse needs of its residents while promoting efficiency and sustainability.
-## Class Diagram 
-![Class Diagram](https://github.com/aed5100/final-project-techbyte4/blob/prashanthbaskar/SMART_CITY_HUB-UML_Diagram.drawio.png)
 
-## Sequence Diagram 
-
-
-![Sequence Diagram](https://github.com/aed5100/final-project-techbyte4/blob/main/Smart%20City%20Hub%20-%20Sequence%20Diagram.png)
 # smartcityhub
